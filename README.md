@@ -11,11 +11,11 @@ SQL • Power BI • Tableau • R • Python • Excel • Power Query • DAX 
 
 **Areas of Interest**
 
-Data Analytics
-Business Intelligence
-Data Warehousing
-Financial Analysis
-Dashboard Development
+- Data Analytics
+- Business Intelligence
+- Data Warehousing
+- Financial Analysis
+- Dashboard Development
 
 ---
 
