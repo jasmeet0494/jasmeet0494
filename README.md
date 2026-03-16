@@ -11,11 +11,7 @@ SQL • Power BI • Tableau • R • Python • Excel • Power Query • DAX 
 
 **Areas of Interest**
 
-- Data Analytics
-- Business Intelligence
-- Data Warehousing
-- Financial Analysis
-- Dashboard Development
+Data Analytics • Business Intelligence • Data Warehousing • Financial Analysis • Dashboard Development 
 
 ---
 
@@ -25,6 +21,7 @@ SQL • Power BI • Tableau • R • Python • Excel • Power Query • DAX 
 
 💼 LinkedIn: (www.linkedin.com/in/jasmeet0494)
 
+---
 
 <!--
 **jasmeet0494/jasmeet0494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
